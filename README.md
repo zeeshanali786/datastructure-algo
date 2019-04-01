@@ -1,1 +1,1 @@
-# datastructure-training
+# Datastructure and Algorithms
